@@ -1,0 +1,7 @@
+cat.jpg
+dir-info.txt
+index.js
+node_modules
+package-lock.json
+package.json
+text.txt
